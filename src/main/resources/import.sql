@@ -1,1 +1,10 @@
 insert into tb_client(name,cpf,income,birt_date,children) values('Mariaanjo','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('João da silva','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('Maria das dores','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('marcelo maia','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('paulo gardinalli','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('talita moreira','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('jandira melescov','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('araceli ramos','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('Odenir nantes','222.333.444-55','5000','1989-06-15',4);
+insert into tb_client(name,cpf,income,birt_date,children) values('aline santos','222.333.444-55','5000','1989-06-15',4);

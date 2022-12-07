@@ -32,7 +32,7 @@ public ClientDTO(Client entity) {
 	this.cpf=entity.getCpf();
 	this.income=entity.getIncome();
 	this.children=entity.getChildren();
-	this.birtDate=entity.getBirtDate()
+	this.birtDate=entity.getBirtDate();
 }
 
 public Long getId() {
